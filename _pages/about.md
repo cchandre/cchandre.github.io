@@ -22,14 +22,14 @@ Signatory of [DORA](https://sfdora.org/)
 ---
 # Contact information  
 
-  Cristel CHANDRE
-  CNRS - I2M UMR7373 
-  163 avenue de Luminy
-  13009 Marseille, France
+  Cristel CHANDRE  
+  CNRS - I2M UMR7373   
+  163 avenue de Luminy  
+  13009 Marseille, France  
 
-Cell: +33 6 72 47 03 57
+Cell: +33 6 72 47 03 57  
 
-Cell (US): +1 678 439 8220  
+Cell (US): +1 678 439 8220    
 
 
 
