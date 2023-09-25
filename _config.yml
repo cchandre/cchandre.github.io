@@ -212,7 +212,7 @@ defaults:
   # _press-review
   - scope:
       path: ""
-      type: teaching
+      type: portfolio
     values:
       layout: single
       author_profile: true
@@ -241,7 +241,7 @@ defaults:
       path: ""
       type: research
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
