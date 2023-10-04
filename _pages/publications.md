@@ -59,7 +59,7 @@ author_profile: true
 
 1. C. Chandre, J. Mahecha, J.P. Salas, Driving the formation of the RbCs dimer by a laser pulse: A nonlinear-dynamics approach, Physical Review A 95, 033424 (2017)
 
-J. Dubois, S.A. Berman, C. Chandre, T. Uzer, Single and double ionization of magnesium by electron impact: A classical study, Physical Review A 95, 022713 (2017); featured in the kaleidoscope images of Physical Review A
+1. J. Dubois, S.A. Berman, C. Chandre, T. Uzer, Single and double ionization of magnesium by electron impact: A classical study, Physical Review A 95, 022713 (2017); featured in the kaleidoscope images of Physical Review A
 
 1. F. Fedele, C. Chandre, M. Farazmand, Kinematics of fluid particles on the sea surface. Hamiltonian theory, Journal of Fluid Mechanics 801, 260 (2016)
 
