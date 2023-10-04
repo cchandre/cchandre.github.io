@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Viewpoint on Notebook articles: towards a transformative publishing experience in nonlinear science
+# Viewpoint on [Notebook articles: towards a transformative publishing experience in nonlinear science](https://doi.org/10.1016/j.cnsns.2021.105753)
 
 *Scientific methods evolve now at the speed of software (...). And yet the basic means of communicating scientific results hasn’t changed for 400 years.*  [Somers, The Atlantic, April 2018]
 
@@ -19,6 +19,8 @@ At first glance, notebook articles will look exactly the same as standard articl
 
 Reference: C. Chandre, J. Dubois, *Notebook articles: towards a transformative publishing experience in nonlinear science*, [Communications in Nonlinear Science and Numerical Simulation 97, 105753 (2021)](https://doi.org/10.1016/j.cnsns.2021.105753)
 
+## [Share your views](https://github.com/cchandre/Notebook-Article/discussions)
+
 
 # Example of notebook article:  Strong field double ionization: The phase space perspective
 
@@ -26,3 +28,12 @@ Reference: C. Chandre, J. Dubois, *Notebook articles: towards a transformative p
 - notebook article by C. Chandre and J. Dubois, available at [github.com/cchandre/Notebook-Article](https://github.com/cchandre/Notebook-Article)  
 - run notebook on [Google Colab](https://colab.research.google.com/github/cchandre/Notebook-Article/blob/master/Notebook_Article.ipynb)
 
+---
+
+# Useful links
+
+- [GitHub](https://github.com/)
+- [BinderHub](https://binderhub.readthedocs.io/en/latest/) and [mybinder.org](https://mybinder.org/)
+- [Google Colab](https://colab.research.google.com/)
+- [Jupyter](https://jupyter.org/)
+- [Google Cloud](https://cloud.google.com/)
