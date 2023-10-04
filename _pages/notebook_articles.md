@@ -19,8 +19,9 @@ At first glance, notebook articles will look exactly the same as standard articl
 
 Reference: C. Chandre, J. Dubois, *Notebook articles: towards a transformative publishing experience in nonlinear science*, [Communications in Nonlinear Science and Numerical Simulation 97, 105753 (2021)](https://doi.org/10.1016/j.cnsns.2021.105753)
 
-## [Share your views](https://github.com/cchandre/Notebook-Article/discussions)
+[Share your views](https://github.com/cchandre/Notebook-Article/discussions){: .btn }
 
+---
 
 # Example of notebook article:  Strong field double ionization: The phase space perspective
 
