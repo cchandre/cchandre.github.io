@@ -11,7 +11,7 @@ redirect_from:
 
 # Viewpoint on [Notebook articles: towards a transformative publishing experience in nonlinear science](https://doi.org/10.1016/j.cnsns.2021.105753)
 
-*Scientific methods evolve now at the speed of software (...). And yet the basic means of communicating scientific results hasn’t changed for 400 years.*  [Somers, The Atlantic, April 2018]
+> *Scientific methods evolve now at the speed of software (...). And yet the basic means of communicating scientific results hasn’t changed for 400 years.*  [Somers, The Atlantic, April 2018]
 
 Open Science, Reproducible Research, Findable, Accessible, Interoperable and Reusable (FAIR) data principles are long term goals for scientific dissemination. However, the implementation of these principles calls for a reinspection of our means of dissemination. In our viewpoint, we discuss and advocate, in the context of nonlinear science, how a notebook article represents an essential step toward this objective by fully embracing cloud computing solutions. 
 Notebook articles as scholar articles offer an alternative, efficient and more ethical way to disseminate research through their versatile environment. They offer new dimensions to showcase research results in innovative ways. The general format of notebook articles is a sequence of cells of 3 different types: (i) markdown cells contain formatted text with LaTeX equations describing the proposed research, (ii) code cells contain the codes used to support the conclusions of the proposed research and, when executed by the reader, the results are reported in (iii) output cells. 
